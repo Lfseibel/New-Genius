@@ -932,3 +932,443 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.06.03-03.26.36:874][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
 [2024.06.03-03.27.04:215][665]Cmd: TRANSACTION UNDO
 [2024.06.03-03.27.04:215][665]LogEditorTransaction: Undo Replace component used material
+[2024.06.03-03.28.57:259][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.06.03-03.28.59:934][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.06.03-03.29.01:821][782]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2024.06.03-03.29.37:378][857]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.06.03-03.29.40:303][ 14]LogContentBrowser: Deferred new asset file creation: texturaParede_Mat_Inst
+[2024.06.03-03.29.40:325][ 14]LogContentBrowser: Creating deferred item: texturaParede_Mat_Inst
+[2024.06.03-03.29.43:120][182]LogContentBrowser: Attempting asset rename: texturaParede_Mat_Inst -> Floor
+[2024.06.03-03.29.43:121][182]LogContentBrowser: End creating deferred item texturaParede_Mat_Inst
+[2024.06.03-03.29.48:241][476]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Floor.Floor
+[2024.06.03-03.29.48:246][476]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2024.06.03-03.29.48:328][476]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2024.06.03-03.29.48:539][476]LogRenderer: Reallocating scene render targets to support 964x696 Format 10 NumSamples 1 (Frame:1).
+[2024.06.03-03.30.06:817][537]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2024.06.03-03.30.06:837][537]LogSavePackage: Moving '../../../../../../Users/samue/Documents/GitHub/New-Genius/Saved/FirstPersonExampleMapED23F4C3428E9080700165A92FDC2D88.tmp' to '../../../../../../Users/samue/Documents/GitHub/New-Genius/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2024.06.03-03.30.07:401][537]LogSavePackage: Moving '../../../../../../Users/samue/Documents/GitHub/New-Genius/Saved/FirstPersonExampleMap_BuiltDataEDD3641E4E52FD4714A966B2B0FD8A7F.tmp' to '../../../../../../Users/samue/Documents/GitHub/New-Genius/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2024.06.03-03.30.07:445][537]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.03-03.30.07:445][537]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2024.06.03-03.30.07:445][537]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2024.06.03-03.30.08:352][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2024.06.03-03.30.08:373][583]LogSavePackage: Moving '../../../../../../Users/samue/Documents/GitHub/New-Genius/Saved/FirstPersonExampleMapE853781D4B680AC60433C3A04EA5EB26.tmp' to '../../../../../../Users/samue/Documents/GitHub/New-Genius/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2024.06.03-03.30.08:695][583]LogSavePackage: Moving '../../../../../../Users/samue/Documents/GitHub/New-Genius/Saved/FirstPersonExampleMap_BuiltDataAEBB97914E9C9906150C97A56E70E2FE.tmp' to '../../../../../../Users/samue/Documents/GitHub/New-Genius/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2024.06.03-03.30.08:710][583]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.03-03.30.08:710][583]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2024.06.03-03.30.08:710][583]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2024.06.03-03.30.10:467][681]LogTemp: Repeating last play command: Selected Viewport
+[2024.06.03-03.30.10:477][681]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.03-03.30.10:478][681]PIE: New page: PIE session: FirstPersonExampleMap (Jun 2, 2024, 9:30:10 PM)
+[2024.06.03-03.30.10:478][681]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2024.06.03-03.30.10:481][681]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.06.03-03.30.10:481][681]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.06.03-03.30.10:486][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004974s)
+[2024.06.03-03.30.10:486][681]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2024.06.03-03.30.10:487][681]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2024.06.03-03.30.10:487][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.006102s)
+[2024.06.03-03.30.10:515][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2024.06.03-03.30.10:516][681]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.06.03-03.30.10:516][681]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.03-03.30.10:516][681]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.03-03.30.10:516][681]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.03-03.30.10:516][681]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.03-03.30.10:516][681]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.03-03.30.10:516][681]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.03-03.30.10:516][681]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.03-03.30.10:516][681]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.03-03.30.10:517][681]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.03-03.30.10:517][681]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.03-03.30.10:517][681]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.03-03.30.10:517][681]LogAudioMixer: Display: Initializing audio mixer.
+[2024.06.03-03.30.10:520][681]LogAudioMixer: Display: 0: FrontLeft
+[2024.06.03-03.30.10:520][681]LogAudioMixer: Display: 1: FrontRight
+[2024.06.03-03.30.10:637][681]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek(R) Audio)
+[2024.06.03-03.30.10:637][681]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.03-03.30.10:637][681]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.03-03.30.10:637][681]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.03-03.30.10:638][681]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.06.03-03.30.10:638][681]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.06.03-03.30.10:638][681]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.06.03-03.30.10:639][681]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.06.03-03.30.10:639][681]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.06.03-03.30.10:639][681]LogInit: FAudioDevice initialized.
+[2024.06.03-03.30.10:639][681]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonExampleMap'.
+[2024.06.03-03.30.10:645][681]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.06.03-03.30.10:648][681]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2024.06.03-00.30.10
+[2024.06.03-03.30.10:649][681]LogWorld: Bringing up level for play took: 0.002412
+[2024.06.03-03.30.10:649][681]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2024.06.03-03.30.10:652][681]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2024.06.03-03.30.10:653][681]PIE: Server logged in
+[2024.06.03-03.30.10:653][681]PIE: Play in editor total start time 0.177 seconds.
+[2024.06.03-03.30.11:680][720]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.30.12:063][743]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.30.12:297][757]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.30.12:481][768]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.30.12:864][791]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.30.13:047][802]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.30.13:214][812]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.30.13:364][821]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.30.13:514][830]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.30.13:664][839]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.30.13:814][848]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.30.14:282][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.03-03.30.14:282][874]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.06.03-03.30.14:283][874]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.03-03.30.14:283][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.03-03.30.14:295][874]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.03-03.30.14:312][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.03-03.30.14:337][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.03-03.30.14:338][874]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.03-03.30.14:339][874]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.03-03.30.14:384][874]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2024.06.03-03.30.14:413][875]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.06.03-03.30.22:485][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Floor" FILE="../../../../../../Users/samue/Documents/GitHub/New-Genius/Content/Floor.uasset" SILENT=true
+[2024.06.03-03.30.22:545][349]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2024.06.03-03.30.22:576][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.06.03-03.30.22:582][349]LogSavePackage: Moving '../../../../../../Users/samue/Documents/GitHub/New-Genius/Saved/FloorCE7C738D47F9224FF540C6B7D289C30D.tmp' to '../../../../../../Users/samue/Documents/GitHub/New-Genius/Content/Floor.uasset'
+[2024.06.03-03.30.22:602][349]AssetCheck: New page: Asset Save: Floor
+[2024.06.03-03.30.22:602][349]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Floor.Floor
+[2024.06.03-03.30.23:529][404]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.06.03-03.30.23:529][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.03-03.30.35:136][ 53]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap
+[2024.06.03-03.31.28:557][848]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2024.06.03-03.31.28:578][848]LogSavePackage: Moving '../../../../../../Users/samue/Documents/GitHub/New-Genius/Saved/FirstPersonExampleMapB00ADCF745B18A8D8F49A193065E0C98.tmp' to '../../../../../../Users/samue/Documents/GitHub/New-Genius/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2024.06.03-03.31.28:592][848]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.072
+[2024.06.03-03.31.28:612][848]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2024.06.03-03.31.28:612][848]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2024.06.03-03.31.32:110][ 50]LogTemp: Repeating last play command: Selected Viewport
+[2024.06.03-03.31.32:121][ 50]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.06.03-03.31.32:122][ 50]LogPlayLevel: [PlayLevel] Compiling FirstPersonExampleMap before play...
+[2024.06.03-03.31.32:171][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2024.06.03-03.31.32:173][ 50]LogPlayLevel: PlayLevel: Blueprint regeneration took 51 ms (1 blueprints)
+[2024.06.03-03.31.32:173][ 50]PIE: New page: PIE session: FirstPersonExampleMap (Jun 2, 2024, 9:31:32 PM)
+[2024.06.03-03.31.32:173][ 50]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.06.03-03.31.32:177][ 50]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004883s)
+[2024.06.03-03.31.32:178][ 50]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2024.06.03-03.31.32:178][ 50]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2024.06.03-03.31.32:178][ 50]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.005885s)
+[2024.06.03-03.31.32:211][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2024.06.03-03.31.32:211][ 50]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.06.03-03.31.32:211][ 50]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.03-03.31.32:211][ 50]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.03-03.31.32:211][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.03-03.31.32:211][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.03-03.31.32:212][ 50]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.03-03.31.32:212][ 50]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.03-03.31.32:212][ 50]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.03-03.31.32:212][ 50]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.03-03.31.32:212][ 50]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.03-03.31.32:212][ 50]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.03-03.31.32:212][ 50]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.03-03.31.32:212][ 50]LogAudioMixer: Display: Initializing audio mixer.
+[2024.06.03-03.31.32:214][ 50]LogAudioMixer: Display: 0: FrontLeft
+[2024.06.03-03.31.32:214][ 50]LogAudioMixer: Display: 1: FrontRight
+[2024.06.03-03.31.32:342][ 50]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek(R) Audio)
+[2024.06.03-03.31.32:342][ 50]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.03-03.31.32:342][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.03-03.31.32:342][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.03-03.31.32:343][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.06.03-03.31.32:343][ 50]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.06.03-03.31.32:343][ 50]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.06.03-03.31.32:344][ 50]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.06.03-03.31.32:344][ 50]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.06.03-03.31.32:344][ 50]LogInit: FAudioDevice initialized.
+[2024.06.03-03.31.32:344][ 50]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonExampleMap'.
+[2024.06.03-03.31.32:354][ 50]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.06.03-03.31.32:357][ 50]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2024.06.03-00.31.32
+[2024.06.03-03.31.32:357][ 50]LogWorld: Bringing up level for play took: 0.002498
+[2024.06.03-03.31.32:357][ 50]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2024.06.03-03.31.32:360][ 50]PIE: Server logged in
+[2024.06.03-03.31.32:361][ 50]PIE: Play in editor total start time 0.241 seconds.
+[2024.06.03-03.31.32:362][ 50]LogAudio: Warning: Detected orphaned looping sound 'in_game1_Cue'.
+[2024.06.03-03.31.33:737][132]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.31.35:487][237]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.31.38:959][445]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.31.39:143][456]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.31.39:308][466]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.31.39:458][475]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.31.39:608][484]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.31.40:058][511]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.31.40:244][522]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.31.40:393][531]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.31.41:941][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.03-03.31.41:941][622]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.06.03-03.31.41:941][622]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.03-03.31.41:942][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.03-03.31.41:951][622]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.03-03.31.41:966][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.03-03.31.41:995][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.03-03.31.41:996][622]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.03-03.31.41:997][622]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.03-03.31.42:004][622]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2024.06.03-03.31.42:028][623]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.06.03-03.31.51:585][148]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sounds/shot1_Cue.shot1_Cue
+[2024.06.03-03.32.03:698][861]LogTemp: Repeating last play command: Selected Viewport
+[2024.06.03-03.32.03:706][861]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.03-03.32.03:706][861]PIE: New page: PIE session: FirstPersonExampleMap (Jun 2, 2024, 9:32:03 PM)
+[2024.06.03-03.32.03:706][861]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.06.03-03.32.03:713][861]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006504s)
+[2024.06.03-03.32.03:714][861]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2024.06.03-03.32.03:723][861]LogPlayLevel: PIE: World Init took: (0.010651s)
+[2024.06.03-03.32.03:723][861]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.017314s)
+[2024.06.03-03.32.03:757][861]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2024.06.03-03.32.03:757][861]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.06.03-03.32.03:757][861]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.03-03.32.03:757][861]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.03-03.32.03:757][861]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.03-03.32.03:757][861]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.03-03.32.03:757][861]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.03-03.32.03:757][861]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.03-03.32.03:757][861]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.03-03.32.03:757][861]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.03-03.32.03:758][861]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.03-03.32.03:758][861]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.03-03.32.03:758][861]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.03-03.32.03:758][861]LogAudioMixer: Display: Initializing audio mixer.
+[2024.06.03-03.32.03:761][861]LogAudioMixer: Display: 0: FrontLeft
+[2024.06.03-03.32.03:761][861]LogAudioMixer: Display: 1: FrontRight
+[2024.06.03-03.32.03:886][861]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek(R) Audio)
+[2024.06.03-03.32.03:886][861]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.03-03.32.03:886][861]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.03-03.32.03:886][861]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.03-03.32.03:886][861]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.06.03-03.32.03:886][861]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.06.03-03.32.03:887][861]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.06.03-03.32.03:887][861]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.06.03-03.32.03:887][861]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.06.03-03.32.03:887][861]LogInit: FAudioDevice initialized.
+[2024.06.03-03.32.03:887][861]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonExampleMap'.
+[2024.06.03-03.32.03:897][861]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.06.03-03.32.03:901][861]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2024.06.03-00.32.03
+[2024.06.03-03.32.03:901][861]LogWorld: Bringing up level for play took: 0.002237
+[2024.06.03-03.32.03:901][861]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2024.06.03-03.32.03:903][861]PIE: Server logged in
+[2024.06.03-03.32.03:904][861]PIE: Play in editor total start time 0.199 seconds.
+[2024.06.03-03.32.03:908][861]LogAudio: Warning: Detected orphaned looping sound 'in_game1_Cue'.
+[2024.06.03-03.32.05:055][930]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.32.05:577][961]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.32.05:993][986]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.32.06:344][  7]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.32.06:610][ 23]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.32.07:095][ 52]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.32.07:262][ 62]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.32.07:427][ 72]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.32.07:562][ 80]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.32.08:321][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.03-03.32.08:321][124]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.06.03-03.32.08:322][124]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.03-03.32.08:322][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.03-03.32.08:333][124]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.03-03.32.08:348][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.03-03.32.08:378][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.03-03.32.08:378][124]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.03-03.32.08:380][124]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.03-03.32.08:386][124]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2024.06.03-03.32.08:411][125]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.06.03-03.32.26:152][167]LogTemp: Repeating last play command: Selected Viewport
+[2024.06.03-03.32.26:160][167]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.03-03.32.26:160][167]PIE: New page: PIE session: FirstPersonExampleMap (Jun 2, 2024, 9:32:26 PM)
+[2024.06.03-03.32.26:160][167]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.06.03-03.32.26:166][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006421s)
+[2024.06.03-03.32.26:168][167]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2024.06.03-03.32.26:168][167]LogPlayLevel: PIE: World Init took: (0.002046s)
+[2024.06.03-03.32.26:169][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.008714s)
+[2024.06.03-03.32.26:217][167]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2024.06.03-03.32.26:218][167]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.06.03-03.32.26:218][167]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.03-03.32.26:218][167]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.03-03.32.26:218][167]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.03-03.32.26:218][167]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.03-03.32.26:218][167]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.03-03.32.26:218][167]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.03-03.32.26:218][167]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.03-03.32.26:218][167]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.03-03.32.26:219][167]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.03-03.32.26:219][167]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.03-03.32.26:219][167]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.03-03.32.26:219][167]LogAudioMixer: Display: Initializing audio mixer.
+[2024.06.03-03.32.26:222][167]LogAudioMixer: Display: 0: FrontLeft
+[2024.06.03-03.32.26:222][167]LogAudioMixer: Display: 1: FrontRight
+[2024.06.03-03.32.26:366][167]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek(R) Audio)
+[2024.06.03-03.32.26:366][167]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.03-03.32.26:366][167]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.03-03.32.26:366][167]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.03-03.32.26:368][167]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.06.03-03.32.26:368][167]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.06.03-03.32.26:368][167]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.06.03-03.32.26:368][167]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.06.03-03.32.26:368][167]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.06.03-03.32.26:368][167]LogInit: FAudioDevice initialized.
+[2024.06.03-03.32.26:368][167]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonExampleMap'.
+[2024.06.03-03.32.26:377][167]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.06.03-03.32.26:380][167]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2024.06.03-00.32.26
+[2024.06.03-03.32.26:381][167]LogWorld: Bringing up level for play took: 0.002669
+[2024.06.03-03.32.26:381][167]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2024.06.03-03.32.26:383][167]PIE: Server logged in
+[2024.06.03-03.32.26:384][167]PIE: Play in editor total start time 0.224 seconds.
+[2024.06.03-03.32.26:388][167]LogAudio: Warning: Detected orphaned looping sound 'in_game1_Cue'.
+[2024.06.03-03.32.27:319][223]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.32.27:486][233]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.32.28:037][266]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.32.28:187][275]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.32.28:353][285]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.32.28:553][297]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.32.29:787][371]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.32.30:632][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.03-03.32.30:632][420]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.06.03-03.32.30:632][420]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.03-03.32.30:633][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.03-03.32.30:641][420]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.03-03.32.30:657][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.03-03.32.30:686][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.03-03.32.30:686][420]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.03-03.32.30:687][420]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.03-03.32.30:693][420]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2024.06.03-03.32.30:716][421]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.06.03-03.32.41:362][ 54]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.06.03-03.32.41:362][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.03-03.34.24:466][ 19]LogEditorTransaction: Undo Create Pin Link
+[2024.06.03-03.34.51:552][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameCube" FILE="../../../../../../Users/samue/Documents/GitHub/New-Genius/Content/GameCube.uasset" SILENT=true
+[2024.06.03-03.34.51:624][565]LogSavePackage: Moving '../../../../../../Users/samue/Documents/GitHub/New-Genius/Saved/GameCube2AFCC82342DB30626F947C992B0E9ADD.tmp' to '../../../../../../Users/samue/Documents/GitHub/New-Genius/Content/GameCube.uasset'
+[2024.06.03-03.34.51:653][565]AssetCheck: New page: Asset Save: GameCube
+[2024.06.03-03.34.51:653][565]LogContentValidation: Display: Validating Blueprint /Game/GameCube.GameCube
+[2024.06.03-03.34.53:564][669]LogTemp: Repeating last play command: Selected Viewport
+[2024.06.03-03.34.53:574][669]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.06.03-03.34.53:575][669]LogPlayLevel: [PlayLevel] Compiling GameCube before play...
+[2024.06.03-03.34.53:683][669]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2024.06.03-03.34.53:684][669]LogPlayLevel: PlayLevel: Blueprint regeneration took 109 ms (1 blueprints)
+[2024.06.03-03.34.53:684][669]PIE: New page: PIE session: FirstPersonExampleMap (Jun 2, 2024, 9:34:53 PM)
+[2024.06.03-03.34.53:720][669]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.06.03-03.34.53:725][669]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004769s)
+[2024.06.03-03.34.53:726][669]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2024.06.03-03.34.53:726][669]LogPlayLevel: PIE: World Init took: (0.001196s)
+[2024.06.03-03.34.53:727][669]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.006097s)
+[2024.06.03-03.34.53:755][669]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2024.06.03-03.34.53:755][669]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.06.03-03.34.53:755][669]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.03-03.34.53:755][669]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.03-03.34.53:755][669]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.03-03.34.53:755][669]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.03-03.34.53:755][669]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.03-03.34.53:755][669]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.03-03.34.53:755][669]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.03-03.34.53:755][669]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.03-03.34.53:756][669]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.03-03.34.53:756][669]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.03-03.34.53:756][669]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.03-03.34.53:756][669]LogAudioMixer: Display: Initializing audio mixer.
+[2024.06.03-03.34.53:759][669]LogAudioMixer: Display: 0: FrontLeft
+[2024.06.03-03.34.53:759][669]LogAudioMixer: Display: 1: FrontRight
+[2024.06.03-03.34.53:901][669]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek(R) Audio)
+[2024.06.03-03.34.53:902][669]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.03-03.34.53:902][669]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.03-03.34.53:902][669]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.03-03.34.53:902][669]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.06.03-03.34.53:902][669]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.06.03-03.34.53:902][669]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.06.03-03.34.53:903][669]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.06.03-03.34.53:903][669]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.06.03-03.34.53:903][669]LogInit: FAudioDevice initialized.
+[2024.06.03-03.34.53:903][669]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonExampleMap'.
+[2024.06.03-03.34.53:917][669]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.06.03-03.34.53:921][669]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2024.06.03-00.34.53
+[2024.06.03-03.34.53:921][669]LogWorld: Bringing up level for play took: 0.002960
+[2024.06.03-03.34.53:921][669]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2024.06.03-03.34.53:924][669]PIE: Server logged in
+[2024.06.03-03.34.53:925][669]PIE: Play in editor total start time 0.353 seconds.
+[2024.06.03-03.34.53:927][669]LogAudio: Warning: Detected orphaned looping sound 'in_game1_Cue'.
+[2024.06.03-03.34.54:640][712]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.34.55:859][785]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.35.02:209][166]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.35.03:493][243]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.35.06:001][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.03-03.35.06:001][391]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.06.03-03.35.06:001][391]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.03-03.35.06:001][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.03-03.35.06:008][391]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.03-03.35.06:022][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.03-03.35.06:049][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.03-03.35.06:049][391]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.03-03.35.06:050][391]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.03-03.35.06:056][391]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2024.06.03-03.35.06:084][392]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.06.03-03.35.41:266][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameCube" FILE="../../../../../../Users/samue/Documents/GitHub/New-Genius/Content/GameCube.uasset" SILENT=true
+[2024.06.03-03.35.41:338][380]LogSavePackage: Moving '../../../../../../Users/samue/Documents/GitHub/New-Genius/Saved/GameCube155FABB24FDE015D5CD5A6AAC1C505BF.tmp' to '../../../../../../Users/samue/Documents/GitHub/New-Genius/Content/GameCube.uasset'
+[2024.06.03-03.35.41:353][380]AssetCheck: New page: Asset Save: GameCube
+[2024.06.03-03.35.41:353][380]LogContentValidation: Display: Validating Blueprint /Game/GameCube.GameCube
+[2024.06.03-03.35.43:614][510]LogTemp: Repeating last play command: Selected Viewport
+[2024.06.03-03.35.43:623][510]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.06.03-03.35.43:625][510]LogPlayLevel: [PlayLevel] Compiling GameCube before play...
+[2024.06.03-03.35.43:768][510]LogUObjectHash: Compacting FUObjectHashTables data took   6.69ms
+[2024.06.03-03.35.43:771][510]LogPlayLevel: PlayLevel: Blueprint regeneration took 148 ms (1 blueprints)
+[2024.06.03-03.35.43:771][510]PIE: New page: PIE session: FirstPersonExampleMap (Jun 2, 2024, 9:35:43 PM)
+[2024.06.03-03.35.43:820][510]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.06.03-03.35.43:827][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006423s)
+[2024.06.03-03.35.43:828][510]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2024.06.03-03.35.43:829][510]LogPlayLevel: PIE: World Init took: (0.001610s)
+[2024.06.03-03.35.43:829][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.008367s)
+[2024.06.03-03.35.43:870][510]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2024.06.03-03.35.43:870][510]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.06.03-03.35.43:870][510]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.03-03.35.43:871][510]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.03-03.35.43:871][510]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.03-03.35.43:871][510]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.03-03.35.43:871][510]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.03-03.35.43:871][510]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.03-03.35.43:871][510]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.03-03.35.43:871][510]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.03-03.35.43:871][510]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.03-03.35.43:871][510]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.03-03.35.43:871][510]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.03-03.35.43:871][510]LogAudioMixer: Display: Initializing audio mixer.
+[2024.06.03-03.35.43:874][510]LogAudioMixer: Display: 0: FrontLeft
+[2024.06.03-03.35.43:874][510]LogAudioMixer: Display: 1: FrontRight
+[2024.06.03-03.35.44:009][510]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek(R) Audio)
+[2024.06.03-03.35.44:009][510]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.03-03.35.44:009][510]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.03-03.35.44:009][510]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.03-03.35.44:010][510]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.06.03-03.35.44:010][510]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.06.03-03.35.44:010][510]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.06.03-03.35.44:011][510]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.06.03-03.35.44:011][510]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.06.03-03.35.44:011][510]LogInit: FAudioDevice initialized.
+[2024.06.03-03.35.44:011][510]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonExampleMap'.
+[2024.06.03-03.35.44:024][510]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.06.03-03.35.44:027][510]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2024.06.03-00.35.44
+[2024.06.03-03.35.44:027][510]LogWorld: Bringing up level for play took: 0.002474
+[2024.06.03-03.35.44:027][510]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2024.06.03-03.35.44:030][510]PIE: Server logged in
+[2024.06.03-03.35.44:030][510]PIE: Play in editor total start time 0.409 seconds.
+[2024.06.03-03.35.44:032][510]LogAudio: Warning: Detected orphaned looping sound 'in_game1_Cue'.
+[2024.06.03-03.35.44:046][511]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.058635 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_1', movement 'Walking'
+[2024.06.03-03.35.46:394][652]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.35.50:078][873]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.35.56:181][239]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.35.56:931][284]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.36.03:881][701]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.36.04:049][711]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.36.04:215][721]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.36.04:365][730]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.36.05:348][789]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.36.08:782][995]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.36.08:982][  7]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.36.09:148][ 17]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.36.09:332][ 28]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.36.09:566][ 42]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.36.09:987][ 66]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.36.10:321][ 86]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.36.11:036][129]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.36.11:221][140]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.36.11:388][150]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2024.06.03-03.36.12:841][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.03-03.36.12:841][235]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.06.03-03.36.12:841][235]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.03-03.36.12:842][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.03-03.36.12:850][235]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.03-03.36.12:866][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.03-03.36.12:893][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.03-03.36.12:893][235]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.03-03.36.12:894][235]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.03-03.36.12:901][235]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2024.06.03-03.36.12:930][236]LogPlayLevel: Display: Destroying online subsystem :Context_15
